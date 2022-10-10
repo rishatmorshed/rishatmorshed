@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishatmorshed
-- 👀 I’m interested in OOP
-- 🌱 I’m currently learning Competitive Programming
+- 👀 I’m interested in Competitive Programming
+- 🌱 I’m currently learning OOP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
